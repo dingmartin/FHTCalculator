@@ -8,4 +8,4 @@ How to use this tool:
 4. Click the go button to compute the result. 
 5. Click copy and then you can paste and check the result in one excel sheet.  
 
-The sample data is also provided in the installation folder. 
+The sample data is provided in the installation folder. 
