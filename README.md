@@ -1,4 +1,4 @@
-The tool was developed for calculating the fractional Ht-index (FHt-index). 
+FHTCalculator is developed for calculating the fractional Ht-index (FHt-index). 
 
 How to use this tool: 
 
