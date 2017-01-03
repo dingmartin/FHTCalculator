@@ -7,7 +7,7 @@ FHTCalculator is developed for calculating fractional Ht-index (FHt-index), whic
 1. Download and install SetupFHT.msi. By default, the program will locate in <i> C:\Program Files (x86)\FHTCalculator </i>. 
 2. Open FH.exe and copy and paste data series to the input box; data series should be in same format as one column in Excel.
 3. Set the threshold (no larger than 50 for the head percentage).
-4. Click <i> go </i> button to run the tool. 
+4. Click <i> go </i> to run the tool. 
 5. Click <i> copy </i> and then you can paste it in an Excel sheet.  
 
 The sample data is provided in the installation folder. 
