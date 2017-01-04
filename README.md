@@ -1,6 +1,6 @@
 FHTCalculator is developed for calculating fractional Ht-index (FHt-index), which improves the sensitivity of Ht-index by capturing more precisely the underlying scaling hierarchy of numerous smallest, a very few largest, and some in between the smallest and the largest of a data with a heavy-tailed distribution. 
 
-![picture1](https://cloud.githubusercontent.com/assets/6545129/21603466/e1a5a698-d19d-11e6-8f3b-710c74100077.jpg)
+![picture2](https://cloud.githubusercontent.com/assets/6545129/21639343/c28ac1ee-d26f-11e6-9e3f-a0b81ed8ef1d.jpg)
 
 <b> How to use this tool: </b>
 
